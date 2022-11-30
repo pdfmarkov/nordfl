@@ -1,3 +1,3 @@
 # nordfl
 
-#added database configuration
+## added database configuration
